@@ -3,9 +3,13 @@
 I'm an embedded system engineer, passionate about audio and low-power systems, with a PhD on energy harvesting IoT devices. I've been working in various fields for 13 years, including IoT, robotics, audio, video transmission and smartphones, and I like to discover new techs and environments.
 
 * 🌍  I'm based in Rennes, Brittany
-* ✉️   You can contact me at [philip-dylan@gleonec.bzh](mailto:philip-dylan@gleonec.bzh)
 * 🤝  I'm open to collaborating on embedded projects which help make the world a better place
 * ⚡  I'm one of the people behind Malt in France, the first french whisky trade fair
+* 📫 How to reach me: <p align="left">
+    <a href="https://www.github.com/p-d-g" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="18" height="18" /></a>
+    <a href="https://www.gitlab.com/pdg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" width="18" height="18" /></a>
+    <a href="https://www.linkedin.com/in/pdg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" /></a>
+</p>
 
 ### Skills
 
@@ -16,14 +20,6 @@ I'm an embedded system engineer, passionate about audio and low-power systems, w
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="26" height="26" alt="GNU Bash" /></a>
     <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="26" height="26" alt="Linux" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="26" height="26" alt="Docker" /></a>
-</p>
-
-### Socials
-
-<p align="left">
-    <a href="https://www.github.com/p-d-g" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="26" height="26" /></a>
-    <a href="https://www.gitlab.com/pdg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" width="26" height="26" /></a>
-    <a href="https://www.linkedin.com/in/pdg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="26" height="26" /></a>
 </p>
 
 <!--
