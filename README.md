@@ -5,11 +5,9 @@ I'm an embedded system engineer, passionate about audio and low-power systems, w
 * 🌍  I'm based in Rennes, Brittany
 * 🤝  I'm open to collaborating on embedded projects which help make the world a better place
 * ⚡  I'm one of the people behind Malt in France, the first french whisky trade fair
-* 📫 How to reach me: <p align="left">
-    <a href="https://www.github.com/p-d-g" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="18" height="18" /></a>
+* 📫 How to reach me: <a href="https://www.github.com/p-d-g" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="18" height="18" /></a>
     <a href="https://www.gitlab.com/pdg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" width="18" height="18" /></a>
     <a href="https://www.linkedin.com/in/pdg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" /></a>
-</p>
 
 ### Skills
 
