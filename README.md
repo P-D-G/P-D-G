@@ -22,9 +22,7 @@ I'm an embedded system engineer, passionate about audio and low-power systems, w
 
 <p align="left">
     <a href="https://www.github.com/p-d-g" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="26" height="26" /> </picture> </a>
-    <a href="https://gitlab.com/pdg">
-        <img alt="PDG | Gitlab" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" />
-    </a>
+    <a href="https://www.gitlab.com/pdg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" /> <img src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" width="26" height="26" /> </picture> </a>
     <a href="https://www.linkedin.com/in/pdg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="26" height="26" /> </picture> </a>
 </p>
 
