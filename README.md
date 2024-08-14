@@ -15,6 +15,14 @@ I'm an embedded system engineer, passionate about audio and low-power systems, w
     <a href="https://www.gitlab.com/pdg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" width="18" height="18" /></a>
     <a href="https://www.linkedin.com/in/pdg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="18" height="18" /></a>
 
+### Last conferences
+
+* 🌬  'Zephyr: modern software practices for small devices' at [OpenSource Experience](https://www.opensource-experience.com/en/) in Dec'23
+* 🫀  '[Pipewire as the heart of Linux-based audio system](https://youtu.be/JFhUtphvDXg)' at [Embedded Recipes](https://embedded-recipes.org/2023/) in Sep'23
+* 🔊  '[Designing an industrial audio application on Linux: a HW/SW codesign story](https://youtu.be/ig7MxYi3Bmw)' at [Embedded Recipes](https://embedded-recipes.org/2022/) in May'22
+* 🔍  '[System wide tracing with LTTNG](https://youtu.be/n2CE5nQvD5w)' at [Live Embedded Event](https://www.linkedin.com/company/live-embedded-event/) in May'22
+* 💾  '[SSD lifetime, data integrity and real-time: compromises and lessons learned](https://youtu.be/l3ZjzoGlX10)' at [Live Embedded Event](https://www.linkedin.com/company/live-embedded-event/) in Jun'21
+
 <!--
 **P-D-G/P-D-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
